@@ -1,16 +1,19 @@
+
+PLUGIN - LATEST-VERSION - Check Date
+
 Vehicles
 NotoriousCore
-HackedServer - 1.18.0
+HackedServer - 1.18.0 - 1/16/2018
 FreshUHC
 Celembrior's configs
-AdvancedEnchantment - 2.8.8
+AdvancedEnchantment - 2.8.8 - 1/16/2018
 SkyWorldgenerator
-AntiAura - 11.38
+AntiAura - 11.38 - 1/16/2018
 PremiumBedwars
 Minator
-Bank - 2.7f
-RestrictedCreative - 1.12.5
-PlayerWorlds - 2.6.2
+Bank - 2.7f - 1/16/2018
+RestrictedCreative - 1.12.5 - 1/16/2018
+PlayerWorlds - 2.6.2 - 1/16/2018
 Heads
 PandaWires
 TakaAnticheat
