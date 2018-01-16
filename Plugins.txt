@@ -14,6 +14,5 @@ Bank - 2.7f - 1/16/2018
 RestrictedCreative - 1.12.5 - 1/16/2018
 PlayerWorlds - 2.6.2 - 1/16/2018
 Heads
-PandaWires
 TakaAnticheat
 Wormholes - 2.3.7 - 1/16/2018
