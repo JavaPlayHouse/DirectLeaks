@@ -1,17 +1,16 @@
 Vehicles
 NotoriousCore
-hacked server
+HackedServer - 1.18.0
 FreshUHC
 Celembrior's configs
-AACAP
-AdvancedEnchantment
+AdvancedEnchantment - 2.8.8
 SkyWorldgenerator
-AntiAura
+AntiAura - 11.38
 PremiumBedwars
 Minator
-Bank
-RestrictedCreative
-PlayerWorlds
+Bank - 2.7f
+RestrictedCreative - 1.12.5
+PlayerWorlds - 2.6.2
 Heads
 PandaWires
 TakaAnticheat
