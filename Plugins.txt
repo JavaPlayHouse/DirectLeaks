@@ -5,7 +5,6 @@ Vehicles
 NotoriousCore
 HackedServer - 1.18.0 - 1/16/2018
 FreshUHC
-Celembrior's configs
 AdvancedEnchantment - 2.8.8 - 1/16/2018
 SkyWorldgenerator
 AntiAura - 11.38 - 1/16/2018
