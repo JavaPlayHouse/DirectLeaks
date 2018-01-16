@@ -1,18 +1,18 @@
 
-PLUGIN - LATEST-VERSION - Check Date
+PLUGIN - LATEST-VERSION - Check-Date - Spigot-URL
 
 Vehicles
 NotoriousCore
-HackedServer - 1.18.0 - 1/16/2018
+HackedServer - 1.18.0 - 1/16/2018 - https://www.spigotmc.org/resources/46485/
 FreshUHC
-AdvancedEnchantment - 2.8.8 - 1/16/2018
+AdvancedEnchantment - 2.8.8 - 1/16/2018 - https://www.spigotmc.org/resources/43058/
 SkyWorldgenerator
-AntiAura - 11.38 - 1/16/2018
+AntiAura - 11.38 - 1/16/2018 - https://www.spigotmc.org/resources/1368/
 PremiumBedwars
 Minator
-Bank - 2.7f - 1/16/2018
-RestrictedCreative - 1.12.5 - 1/16/2018
-PlayerWorlds - 2.6.2 - 1/16/2018
+Bank - 2.7f - 1/16/2018 - https://www.spigotmc.org/resources/3556/
+RestrictedCreative - 1.12.5 - 1/16/2018 - https://www.spigotmc.org/resources/42790/
+PlayerWorlds - 2.6.2 - 1/16/2018 - https://www.spigotmc.org/resources/37026/
 Heads
 TakaAnticheat
-Wormholes - 2.3.7 - 1/16/2018
+Wormholes - 2.3.7 - 1/16/2018 - https://www.spigotmc.org/resources/43188/
