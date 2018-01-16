@@ -16,3 +16,4 @@ PlayerWorlds - 2.6.2 - 1/16/2018 - https://www.spigotmc.org/resources/37026/
 Heads
 TakaAnticheat
 Wormholes - 2.3.7 - 1/16/2018 - https://www.spigotmc.org/resources/43188/
+BossShopPro - v1.9.5 - 1/16/2018 - https://www.spigotmc.org/resources/25699/
